@@ -1,0 +1,12 @@
+cloudfoundry/apt-buildpack
+cloudfoundry/binary-buildpack
+cloudfoundry/dotnet-core-buildpack
+cloudfoundry/go-buildpack
+cloudfoundry/hwc-buildpack
+cloudfoundry/nginx-buildpack
+cloudfoundry/nodejs-buildpack
+cloudfoundry/php-buildpack
+cloudfoundry/python-buildpack
+cloudfoundry/r-buildpack
+cloudfoundry/ruby-buildpack
+cloudfoundry/staticfile-buildpack
